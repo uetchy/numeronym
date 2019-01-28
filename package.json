@@ -1,0 +1,23 @@
+{
+  "name": "numeronym",
+  "description": "numeronym",
+  "version": "0.0.0",
+  "author": "Yasuaki Uechi <y@uechi.io> (https://uechi.io/)",
+  "main": "numeronym.js",
+  "scripts": {
+    "start": "nodemon .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/uetchy/numeronym/issues"
+  },
+  "homepage": "https://github.com/uetchy/numeronym",
+  "keywords": [
+    "numeronym"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uetchy/numeronym.git"
+  }
+}
